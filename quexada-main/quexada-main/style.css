@@ -1,8 +1,14 @@
+.teladefundo{
+background-image: url(file:///tmp/guest-smien7/%C3%81rea%20de%20Trabalho/quexada-main/quexada-main/teladefundominecraft.jpeg);
+background-repeat: no-repeat;
+}
 
 body {
+    background-image: url(file:///tmp/guest-smien7/%C3%81rea%20de%20Trabalho/quexada-main/quexada-main/teladefundominecraft.jpeg);
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Minecraft', sans-serif;
+
 }
 
 
@@ -28,6 +34,15 @@ body {
     justify-content: center;
     padding: 1em;
     font-size: 18px;
-    align-items: center;
+    align-items: center ;
     width: 50%;
+}
+.botoes{
+   padding: 0 0 0 600px;
+}
+
+body {
+
+background-image: url(3a1d47a0-526c-458a-a9dc-9017cb2d906d.webp);
+
 }
