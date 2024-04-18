@@ -1,0 +1,43 @@
+.teladefundo{
+background-image: url(file:///tmp/guest-smien7/%C3%81rea%20de%20Trabalho/quexada-main/quexada-main/teladefundominecraft.jpeg);
+background-repeat: no-repeat;
+
+
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Minecraft', sans-serif;
+
+}
+
+
+:root {
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+.titulo-principal{
+    text-align: center ;
+    width: 100%;
+    -webkit-text-size-adjust: 200%;
+    font-size: 80px;
+}
+.botao {
+    font-family: "Crakra Petch", sans-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center ;
+    width: 50%;
+}
+.botoes{
+   padding: 0 0 0 600px;
+}
